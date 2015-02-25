@@ -1,6 +1,7 @@
 In order to run:
 
 <code>
-cd bin<br>
+cd bin
+
 java dataext.DataExtract ../Collection/Collection/
 </code>
